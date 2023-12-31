@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/implement-quicksort-with-first-element-as-pivot/
+Introduction to analysis and design of algoritm by Anany Levitin
